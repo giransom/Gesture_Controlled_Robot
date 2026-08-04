@@ -17,6 +17,7 @@ HPV Camera & Screen
 - [Stream Capture Images from Camera](image_stream_server.py)
 - [Setting Up IP Adrdess](setup_server.py)
 - [Final Camera Live Stream Code](ESP32_Camera.ino)
+- [Final Display Live Stream Code](Display_Camera.ino)
 
 
 # Bill of Materials
