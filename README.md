@@ -13,7 +13,9 @@ Base Project Code
 - [AT Mode Code: BLE 33 Sense](AT_Mode_BLE_33_Sense.ino)
 
 HPV Camera & Screen
-- [Setting up Flask (IP Address Website)](server.py)
+- [Stream Live Video from Camera](server.py)
+- [Stream Capture Images from Camera](image_stream_server.py)
+- [Setting Up IP Adrdess](setup_server.py)
 - [Final Camera Live Stream Code](ESP32_Camera.ino)
 
 
