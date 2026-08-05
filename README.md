@@ -19,6 +19,9 @@ HPV Camera & Screen
 - [Final Camera Live Stream Code](ESP32_Camera.ino)
 - [Final Display Live Stream Code](Display_Camera.ino)
 
+# Schematics
+![Headstone Image](Gesture_Controlled_Robot_Schematic.png)
+
 
 # Bill of Materials
 Base Project Parts
