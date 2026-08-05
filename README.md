@@ -48,3 +48,7 @@ HPV Camera & Display Attachment
 - [Original Project](https://www.hackster.io/embeddedlab786/hand-gesture-control-robot-via-bluetooth-94b13d)
 - [HC 05 Bluetooth Module: Video](https://www.youtube.com/watch?v=BXXAcFOTnBo)
 - [HC 05 Bluetooth Module: Manual](https://docs.google.com/document/d/1EpnEPulXQwPDSK-nKLohqPjpeXNteP2G/edit)
+- [General HPV & Display Setup Instruction](https://docs.google.com/document/d/1EpnEPulXQwPDSK-nKLohqPjpeXNteP2G/edit)
+- [Visual Studio Code Download](https://code.visualstudio.com/)
+- [Python Download](https://www.python.org/downloads/)
+
