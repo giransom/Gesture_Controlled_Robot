@@ -23,6 +23,8 @@ HPV Camera & Screen
 ![Headstone Image](Gesture_Controlled_Robot_Schematic.png)
 ![Headstone Image](HPV_Camera_Display_Schematic.png)
 
+# Project Notes: Challenges & Fixes
+In the completion of this project there were many challenges to overcome. The first challenge faced was in connecting the bluetooth modules together. I based my original wiring based on the original project I found my HC 05 modules would not enter AT mode and respond to commands. When I further researched the modules independently I found the EN pin needed to be fed 3.3 V when entering AT mode. My next challenge faced was ensuring the actual modules not only were connected by checking the blinking rate, but sending actual characters between each other. My solution found was making sure the correct baud rate was set (38400 baud) in AT mode and then setting the Arduino's Serial bauds to be different values (Uno @ 
 
 # Bill of Materials
 Base Project Parts
