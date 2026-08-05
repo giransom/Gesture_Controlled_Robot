@@ -21,6 +21,7 @@ HPV Camera & Screen
 
 # Schematics
 ![Headstone Image](Gesture_Controlled_Robot_Schematic.png)
+![Headstone Image](HPV_Camera_Display_Schematic.png)
 
 
 # Bill of Materials
